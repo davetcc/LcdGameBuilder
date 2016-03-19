@@ -1,0 +1,7 @@
+Debug/
+Release/
+__vm/
+*.vcproj
+*.vcproj.filters
+.vs/
+
