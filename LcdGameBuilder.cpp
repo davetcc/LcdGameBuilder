@@ -1,5 +1,5 @@
 // 
-// 
+// (C) 2018 thecoderscorner.com - under an apache license. 
 // 
 
 #include "LcdGameBuilder.h"
