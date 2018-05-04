@@ -1,4 +1,4 @@
-// LcdGameBuilder.h
+// LcdGameBuilder.h (C) 2018 thecoderscorner.com, under an apache license.
 
 #ifndef _LCDGAMEBUILDER_h
 #define _LCDGAMEBUILDER_h
